@@ -1,0 +1,13 @@
+.productList{
+    display: flex;
+    max-width: 75%;
+    margin: 100px auto;
+    flex-wrap: wrap;
+}
+.item{
+    width: 30%;
+}
+
+.productList .link{
+    padding: 10px;
+}
