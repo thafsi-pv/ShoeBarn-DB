@@ -1,3 +1,3 @@
-local mongo db connection 
-used mongoose
-added .env file
+- local mongo db connection 
+- used mongoose
+- added .env file
